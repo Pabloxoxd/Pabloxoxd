@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pabloxoxd
-- 👀 I’m interested in ...
+- 👀 I’m interested in frontend develop
 - 🌱 I’m currently learning Javascript, html, css and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://br.linkedin.com/in/pablo-loes-b50875207
