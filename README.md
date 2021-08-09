@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pabloxoxd
+## Hi, I’m @Pabloxoxd
 - 👀 I’m interested in FrontEnd Develop
-- 🌱 I’m currently learning Javascript, html, css and react
+- 🌱 I’m currently learning Javascript, Java, CSS, HTML
 
   ##
   
